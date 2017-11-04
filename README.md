@@ -1,4 +1,4 @@
-# web-scrap
+# Web Scrap
 Scrap and Collect Text Data via Web
 
 ## 패키지 설치
@@ -43,6 +43,7 @@ Command 화면으로 이동하여 해당 플랫폼에 해당하는 코드를 실
 
 ## 프로그램 실행하기
 위의 단계를 모두 수행이 완료되면, Command창에서 다음과 같은 Command를 실행한다. 
+
 |플랫폼|Command| 
 |:-------:|:--------|
 |Windows, 가상환경|python newclip.py|
